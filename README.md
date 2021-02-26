@@ -4,6 +4,6 @@
 ## How to run the Code
   1. Create a new folder databases. Download an IQA dataset into databases and extract the files. The default dataset name is  'MyDataset'.  <br> 
   2. Add the 'MosTxtName.txt' (two cloums: mos and name) and set the trainingPropertion.
-  3. `run evaluating_mydataset.m ` 
+  3. `Run evaluating_mydataset.m ` 
 # License
   This toolbox is made available for research purpose only.
